@@ -1,5 +1,9 @@
-# bt-target
+# NOTICE: NO LONGER MAINTAINED
+## This repository is no longer maintained, we've moved over to a re-written and optimised version, [qtarget](https://github.com/QuantusRP/qtarget/)
  
+ 
+## Old Readme: 
+
 Dependencies:
 * PolyZone: https://github.com/mkafrin/PolyZone
 * Linden Inventory (Latest version): https://github.com/thelindat/linden_inventory/
